@@ -4,9 +4,9 @@
 
 This repository contains five supplementary datasets (S1–S5) accompanying the study:
 
-> *Time lag between Neolithic and urbanization drives immune-related genetic variation across human populations.*
+> *Drivers of immune-related genetic variation across human populations*
 
-Each dataset corresponds to a distinct layer of information integrated for 54 global populations from the Human Genome Diversity Project (HGDP), linking immune-related genomic signatures (especially in the MHC region) with cultural, ecological, and climatic factors.
+Each file corresponds to a distinct predictor potentially influencing the emergence of human infectious diseases, the establishment and transmission of infectious agents, and the distribution, intensity, and dynamics of pathogens across the 54 populations of the Human Genome Diversity Project (HGDP).
 
 ---
 
