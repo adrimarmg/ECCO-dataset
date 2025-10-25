@@ -14,11 +14,11 @@ Each file corresponds to a distinct predictor potentially influencing the emerge
 
 | File | Description |
 |------|--------------|
-| **DatasetS1.csv** | Area under the curve (AUC) of sociopolitical complexity trajectories across the 54 populations of the HGDP. |
-| **DatasetS2.csv** | Ages of the onset of the Neolithic revolution and urbanization of the 54 HGDP populations and source from where the age was taken. |
-| **DatasetS3.csv** | Ages of the oldest domestication events of the 54 HGDP populations. |
-| **DatasetS4.csv** | Pre-industrial pathogen stress of the 54 HGDP populations. |
-| **DatasetS5.csv** | Comprehensive set of historical, cultural, ecological, and climatic predictors compiled to explain variation in immune-related genomic signatures across 54 HGDP populations.  |
+| **DatasetS1.csv** | Area under the curve (AUC) of sociopolitical complexity trajectories across the 54 HGDP populations. |
+| **DatasetS2.csv** | Ages of the onset of the Neolithic revolution and urbanization across the 54 HGDP populations. |
+| **DatasetS3.csv** | Ages of the oldest domestication events across the 54 HGDP populations. |
+| **DatasetS4.csv** | Pre-industrial pathogen stress across the 54 HGDP populations. |
+| **DatasetS5.csv** | Comprehensive set of historical, cultural, ecological, and climatic predictors compiled to explain variation in immune-related genomic signatures across the 54 HGDP populations.  |
 
 ---
 
