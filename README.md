@@ -14,11 +14,11 @@ Each file corresponds to a distinct predictor potentially influencing the emerge
 
 | File | Description |
 |------|--------------|
-| **DatasetS1.csv** | Comprehensive set of historical, cultural, ecological, and climatic predictors compiled to explain variation in immune-related genomic signatures across 54 HGDP populations. |
-| **DatasetS2.csv** | Metadata and sources used to calculate the α-index, representing long-term exposure to domesticated animals through time. |
-| **DatasetS3.csv** | Ages of the onset of the Neolithic Revolution and urbanization for each HGDP population, including bibliographic sources. |
-| **DatasetS4.csv** | Sociopolitical complexity values derived from the area under the curve (AUC) of PC1 from Turchin *et al.* (2017), matched to each HGDP population. |
-| **DatasetS5.csv** | Detailed codebook and methodological notes describing variables, definitions, and data sources used in the analyses. |
+| **DatasetS1.csv** | Area under the curve (AUC) of sociopolitical complexity trajectories across the 54 populations of the HGDP. |
+| **DatasetS2.csv** | Ages of the onset of the Neolithic revolution and urbanization of the 54 HGDP populations and source from where the age was taken. |
+| **DatasetS3.csv** | Ages of the oldest domestication events of the 54 HGDP populations. |
+| **DatasetS4.csv** | Pre-industrial pathogen stress of the 54 HGDP populations. |
+| **DatasetS5.csv** | Comprehensive set of historical, cultural, ecological, and climatic predictors compiled to explain variation in immune-related genomic signatures across 54 HGDP populations.  |
 
 ---
 
@@ -26,7 +26,7 @@ Each file corresponds to a distinct predictor potentially influencing the emerge
 
 If you use this dataset, please cite:
 
-> Morales A. *et al.* (2025). *Ecological, Cultural, and Climatic Origins (ECCO) Dataset.* GitHub repository: [https://github.com/adrimarmg/ECCO-dataset](https://github.com/adrimarmg/ECCO-dataset). DOI: *[Zenodo DOI will appear here once archived]*.
+> Morales A. *et al.* (2025). *Drivers of immune-related genetic variation across human populations* GitHub repository: [https://github.com/adrimarmg/ECCO-dataset](https://github.com/adrimarmg/ECCO-dataset). DOI: *[Zenodo DOI will appear here once archived]*.
 
 ---
 
